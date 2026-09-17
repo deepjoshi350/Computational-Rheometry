@@ -96,9 +96,9 @@ done by considering right and left boundaries of thickness of 0.9% of the total 
 
 
 
-The crossovers are highly dependent on the E, η and also the degree per nodes for the condensate which can be seen by the result below, which doesn't show a crossover for a degree per node of 9. 
-![SAOS Results](stable_EPS_0.5_30,30.png)
+The crossovers are highly dependent on the E, η and also the degree per nodes for the condensate which can be seen by the result below, which barely show a crossover for a degree per node of 9. 
+![SAOS Results](lammps_moduli.png)
 
 
 For a creep test, Left side of the boundary was held fixed while stretching out the right boundary, for three different condensate systems the results are as shown where they are normalized to better compare them,
-![SAOS Results](stable_EPS_0.5_30,30.png)
+![Creep tests](associative_polymers.png)
